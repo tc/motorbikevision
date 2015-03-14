@@ -1,0 +1,1 @@
+Computer vision project to recognize a motorbike(scooters, motorcycles) at a traffic stop from video footage. Project from Serge Belongie's CSE190A class at UCSD.
